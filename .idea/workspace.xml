@@ -4,15 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="87d7f78d-b7d1-48c8-9340-92a571373314" name="Changes" comment="install djoser and jwt auth">
+    <list default="true" id="87d7f78d-b7d1-48c8-9340-92a571373314" name="Changes" comment="add rest framework jwt and create the abstract user model">
+      <change afterPath="$PROJECT_DIR$/django_backend/api/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_backend/users/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/django_backend/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/django_backend/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/django_backend/django_backend/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_backend/django_backend/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_backend/django_backend/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_backend/django_backend/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -81,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680627611434</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add rest framework jwt and create the abstract user model">
+      <created>1680629868300</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680629868300</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -98,6 +115,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit/ create the project" />
     <MESSAGE value="install djoser and jwt auth" />
-    <option name="LAST_COMMIT_MESSAGE" value="install djoser and jwt auth" />
+    <MESSAGE value="add rest framework jwt and create the abstract user model" />
+    <option name="LAST_COMMIT_MESSAGE" value="add rest framework jwt and create the abstract user model" />
   </component>
 </project>
