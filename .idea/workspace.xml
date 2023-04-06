@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="87d7f78d-b7d1-48c8-9340-92a571373314" name="Changes" comment="get user api">
+    <list default="true" id="87d7f78d-b7d1-48c8-9340-92a571373314" name="Changes" comment="update requirements.txt">
+      <change afterPath="$PROJECT_DIR$/django_backend/auth/serializers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_backend/auth/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_backend/auth/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/django_backend/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/django_backend/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_backend/users/services.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_backend/users/services.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_backend/users/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_backend/users/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_backend/users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_backend/users/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_backend/django_backend/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_backend/django_backend/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +118,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680715643548</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Update user API">
+      <created>1680716774039</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1680716774039</updated>
+    </task>
+    <task id="LOCAL-00008" summary="update requirements.txt">
+      <created>1680716935386</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1680716935386</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -151,6 +165,8 @@
     <MESSAGE value="add swagger" />
     <MESSAGE value="add login, check server endpoint" />
     <MESSAGE value="get user api" />
-    <option name="LAST_COMMIT_MESSAGE" value="get user api" />
+    <MESSAGE value="Update user API" />
+    <MESSAGE value="update requirements.txt" />
+    <option name="LAST_COMMIT_MESSAGE" value="update requirements.txt" />
   </component>
 </project>
